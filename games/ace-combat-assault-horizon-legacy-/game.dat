@@ -1,0 +1,9 @@
+title = "Ace Combat Assault Horizon Legacy +"
+description = "Ace Combat Assault Horizon Legacy + is a 3D air combat action game, developed by Access Games and published by Namco Bandai Games. It is a remake of Ace Combat 2 released for the Sony PlayStation."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "000400000015C000"
+region = "usa"
+release_date = "2015-02-10"
